@@ -14,6 +14,10 @@ Requirements:
   
   FOR FUTURE: try to add nil, and shoot the moon options for the bids. For now, expect that everyone will bid at least one, and less than 13.
   
-  Domain Class Diagram:
+Domain Class Diagram:
   ![Domain Class Diagram 1](https://user-images.githubusercontent.com/65798296/156659955-9943d8ef-7caf-40ec-b560-e404cf6c3bc8.png)
 
+Use Case Diagram: 
+  ![UseCase Diagram 1](https://user-images.githubusercontent.com/65798296/156662302-659d392c-eb3c-4db6-a932-735e727f6a19.png)
+
+  
